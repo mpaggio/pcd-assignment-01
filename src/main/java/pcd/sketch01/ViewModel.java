@@ -2,7 +2,7 @@ package pcd.sketch01;
 
 import java.util.ArrayList;
 
-record BallViewInfo(P2d pos, double radius) {}
+record BallViewInfo(Point2D pos, double radius) {}
 
 public class ViewModel {
 
